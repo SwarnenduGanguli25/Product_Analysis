@@ -1,1 +1,2 @@
 # Product_Analysis
+Product_Analysis uses Linear Regression for analyzing the outlet sales of an item basing on various features such as its item size,MRP,Age of Company,etc.Here we first did some univariate analysis basing on which we did some data cleaning and feature engineering so that it can be fitted in our linear regression model and atlast we predicted the sales basing on our model which we created and then we found out the errors respectively.
